@@ -1,1 +1,1 @@
-# AutoRegisterRandomEmail-BIGTOKEN-
+# AutoRegisterRandomEmailBIGTOKEN
