@@ -5,8 +5,14 @@
     UPDATE : 06 APRIL 2019 22.30
 **/
 echo "## AUTO REGISTER WITH RANDOM EMAIL [GENERATOR.EMAIL] ##\n";
-echo "JANGAN LUPA DONASI\n";
-echo "OVO : 087719090011\n\n";
+
+echo "
+########################################
+Jangan lupa donasi!\n
+> Paypal : paypal.me/wahyuarifpurnomo\n
+> OVO\t: 087719090011\n
+Terimakasih banyak yang sudah donasi :')
+########################################\n\n";
 
 echo "Refferal \t: ";
 $reff = trim(fgets(STDIN));
